@@ -10,6 +10,5 @@ Day 1:
 6.Move zeroes
 7.Best time to buy and sell stock
 8.Chocolate distribution problem
-9.Two sum
 
 Day 2:
