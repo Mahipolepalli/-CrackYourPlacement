@@ -24,3 +24,14 @@ Day 4:
 7.Print the duplicate characters in a string-gfg
 8.Middle of the linked list
 
+Day 5:
+1.Linked list cycle
+2.Merge two sorted lists
+3.Reverse linked list
+4.Convert binary number in a linked list to integer
+5.Remove duplicates from a sorted array
+6.Sort a linked list of 0s,1s and 2s (gfg)
+7.Remove linked list elements
+8.Multiply two linked lists (gfg)
+9.Palindrome linked list
+
