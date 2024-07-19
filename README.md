@@ -35,3 +35,12 @@ Day 5:
 8.Multiply two linked lists (gfg)
 9.Palindrome linked list
 
+Day 6:
+1.Implement queue using stacks
+2.Implement stack using queue
+3.Backspace string compare
+4.Implement stack and queue using dequeue (gfg)
+5.Diameter of a binary tree
+6.Invert a binary tree
+7.Maximum depth of a binary tree
+
