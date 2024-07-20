@@ -1,0 +1,34 @@
+class Stack : public Deque {
+public:
+    // push to push element at top of stack
+    // using insert at last function of deque
+    void push(int element)
+    {
+        insert_last(element);
+    }
+
+    // pop to remove element at top of stack
+    // using remove at last function of deque
+    void pop()
+    {
+        remove_last();
+    }
+};
+
+// class to implement queue using deque
+class Queue : public Deque {
+public:
+    // enqueue to insert element at last
+    // using insert at last function of deque
+    void enqueue(int element)
+    {
+        insert_last(element);
+    }
+
+    // dequeue to remove element from first
+    // using remove at first function of deque
+    void dequeue()
+    {
+        remove_first();
+    }
+};
